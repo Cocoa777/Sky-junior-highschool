@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sky junior highschool🏫</title>
+        <style>
+            header {
+                background-color:#282A35;
+                color:white;
+                display: flex;
+            }
+
+            body {
+                margin:0;
+            }
+
+            nav {
+                width: fit-content;
+        
+            }
+
+            header > div {
+                margin: 8px 16px;
+            }
+
+            nav > a {
+               width: auto;
+               float: left;
+               border: none;
+               display: block;
+               padding: 8px 16px;
+               color:white;
+               font-weight: bolder;
+               text-decoration: none;
+
+            }
+
+            aside {
+                float: left;
+                height: 100vh;
+            }
+
+            .left {
+                width: 20%;
+                background-color: grey;
+
+            }
+
+            .right {
+                width: 20%;
+                background-color: grey;
+            }
+
+            main {
+                width: 60%;
+                float: left;
+                background-color:powderblue;
+                height: 100vh;
+            }
+
+            footer {
+                background-color: palegreen;
+            }
+
+            .foot {
+               
+            }
+        </style>    
+    </head>
+    <body>
+        <header>
+            <div style="color: turquoise;">Sky junior highschool</div>
+            
+            <nav>
+                <a href="#">What is our school?</a>
+                <a href="#">Events</a>
+                <a href="#">Map</a>
+                <a href="#">Come and viste!</a>
+            </nav>
+        </header>
+
+        <aside class="left">
+            -What is our school?
+            <br>
+            -Events
+            <br>
+            -Map
+            <br>
+            -Come and viste!
+        </aside>
+
+        <main>
+           <h2>-What is our school?</h2>
+           Welcome to Sky junior highschool ofical website. <br>
+           Are school os like this.<br>
+           <img src="https://th.bing.com/th/id/OIP.WQfCqrtZbDqGCi_5hcluWQHaEz?w=278&h=180&c=7&o=5&pid=1.7"><br>
+           It has green grass ground garden. <br>
+           In behind the school, we have a mountain.We boght for play and learn from this mountain.
+        </main>
+        <aside class="right">
+            Phone number📞
+            <br>
+            $$$-###-&&&
+            <br>
+            <br>
+            Email to school📨
+            <br>
+            Sky.junior@Fmail.com
+        
+        </aside>
+
+        <footer>
+            if you have any questions, ask us in the Email. (Sky.junior@Fmail.com)
+            <div class="foot">
+                <a href="#">What is our school?</a>
+                <a href="#">Events</a>
+                <a href="#">Map</a>
+                <a href="#">Come and viste!</a>
+            </div>
+        </footer>
+    </body>
+</html>       
